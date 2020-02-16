@@ -8,7 +8,7 @@ class Formatter {
   }
   
   static titleize(string){
-    string=;
+    
     let y=[];
     let str = string.split(" ");
     let yasak = ["the", "a", "an", "but", "of", "and", "for", "at", "by", "from"]
