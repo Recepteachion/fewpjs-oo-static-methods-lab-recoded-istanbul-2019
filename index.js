@@ -8,9 +8,9 @@ class Formatter {
   }
   
   static titleize(string){
-    
+    string=;
     let y=[];
-    let str = this.capitalize(string).split(" ");
+    let str = string.split(" ");
     let yasak = ["the", "a", "an", "but", "of", "and", "for", "at", "by", "from"]
     
    str.filter( (el,ind) =>{ 
