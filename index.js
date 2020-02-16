@@ -25,7 +25,7 @@ class Formatter {
         
      
    } )
-   return this.capitalize(y.toLocaleString().join(" "))
+   return this.capitalize(y.join(" "))
    
   }
 }
